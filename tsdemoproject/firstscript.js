@@ -1,5 +1,8 @@
-function addNumbers(a, c) {
-    return a + c;
+function addNumber(a, b) {
+    return a + b;
 }
-var sums = addNumber(10, 20);
-console.log('Sum of two numbers:' + sum);
+var sum = addNumber(10, 20);
+var y;
+y = 'hello';
+y = 10;
+console.log(y);
